@@ -128,16 +128,7 @@ git log --oneline
 
 ## 🔑 许可证
 
-本项目采用GNU通用公共许可证第3版（GPLv3），详情请见 [LICENSE](LICENSE) 文件。
+本项目采用GNU通用公共许可证第3版（GPLv3），详情请见 [LICENSE](LICENSE) 文件
 
-## 📞 交流与赞助
-> 收到的赞助是我开发的动力
-
-<div align="center">
-如有任何问题或建议，欢迎关注下方公众号发私信或提交issues。
-
-|公众号关注 |微信赞助 | 支付宝赞助 |
-|:---:|:---:|:---:| 
-| <img width="270" alt="image" src="https://github.com/user-attachments/assets/9b6fd867-4cfa-4da3-9f9f-56867660d685" title="公众号 折腾结果"/> | <img width="100" alt="image" src="https://github.com/user-attachments/assets/0bdfa9f1-9853-4811-a8db-4b767b45bbc6" title="微信支付"/> |<img width="100" alt="image" src="https://github.com/user-attachments/assets/6de777d6-d4d2-4fa5-90a6-6465b6efdd22" title="支付宝"/> |
 
 </div>
